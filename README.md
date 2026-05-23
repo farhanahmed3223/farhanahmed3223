@@ -1,16 +1,29 @@
-## Hi there 👋
+# Farhan Ahmed
 
-<!--
-**farhanahmed3223/farhanahmed3223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & full-stack engineer with 8+ years on Linux systems, now building
+production APIs, distributed backends, and AI-integrated tools.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend** — Python · FastAPI · Django · Node.js · REST APIs · Microservices  
+**Frontend** — React · Next.js · TypeScript  
+**Databases** — PostgreSQL · MySQL · MongoDB · Redis  
+**DevOps** — Docker · Kubernetes · GitHub Actions · AWS  
+**AI** — OpenAI APIs · LLM integration · Agent-based systems  
+**Systems** — Linux (Ubuntu/CentOS/Fedora) · Bash · Go · C++
+
+## Projects
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [url-shortener](https://github.com/farhanahmed3223/url-shortener) | Full-stack URL shortener with analytics, custom slugs, Redis caching | Next.js · FastAPI · PostgreSQL · Redis |
+| [fastapi-task-api](https://github.com/farhanahmed3223/fastapi-task-api) | Production REST API — JWT auth, Redis cache, rate limiting, Alembic | FastAPI · PostgreSQL · Redis · Docker |
+| [docker-manager](https://github.com/farhanahmed3223/docker-manager) | Interactive TUI for Docker container management | Go · Bubbletea · Docker |
+| [Real-time-Log-Analyzer](https://github.com/farhanahmed3223/Real-time-Log-Analyzer) | Live Linux log analysis with curses UI | Python · Linux |
+| [Network-Packet-Sniffer](https://github.com/farhanahmed3223/Network-Packet-Sniffer) | Live network traffic capture and protocol analysis | Python · Scapy |
+| [Bash-Learner-Terminal](https://github.com/farhanahmed3223/Bash-Learner-Terminal) | Browser-based Bash terminal simulator | TypeScript · Vite |
+
+## Contact
+
+- Email: farhanahmed3223@proton.me
+- LinkedIn: [linkedin.com/in/farhanahmed3223](https://linkedin.com/in/farhanahmed3223)
